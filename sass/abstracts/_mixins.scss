@@ -1,0 +1,11 @@
+// @use 'variables' as *;
+// @use 'functions' as *;
+
+// Clearfix
+@mixin clearfix {
+    &::after {
+      clear: both;
+      content: "";
+      display: table;
+    }
+  }
