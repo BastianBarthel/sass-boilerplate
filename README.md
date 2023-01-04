@@ -7,4 +7,4 @@ Sass boilerplate using the [7-1 architecture pattern](https://sass-guidelin.es/#
 
 - Main file: main.scss
 - When adding files, include them in the index file of the respective folder
-- When using variables, mixins or functions in a file, uncomment the first line of code
+- When using variables, mixins or functions in a file remember to add them first
