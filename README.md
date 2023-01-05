@@ -5,6 +5,6 @@ Sass boilerplate using the [7-1 architecture pattern](https://sass-guidelin.es/#
 
 ### Instructions
 
-- Main file: main.scss
+- Main file: style.scss
 - When adding files, include them in the index file of the respective folder
 - When using variables, mixins or functions in a file remember to add them first
